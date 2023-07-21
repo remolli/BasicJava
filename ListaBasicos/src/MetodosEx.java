@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class MetodosEx {
-    public static void AnosParaDias()
+    public static void anosParaDias()
     {
         Scanner sc = new Scanner(System.in);
 
@@ -16,7 +16,7 @@ public class MetodosEx {
 
         System.out.printf("O total em dias é: %d", totalDias);
     }
-    public static void Media()
+    public static void media()
     {
         Scanner sc = new Scanner(System.in);
 

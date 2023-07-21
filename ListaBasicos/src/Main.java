@@ -1,7 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        // MetodosEx.AnosParaDias();
-        // MetodosEx.Media();
+        // MetodosEx.anosParaDias();
+        // MetodosEx.media();
     }
 }
